@@ -51,6 +51,11 @@ Para ejecutar el servidor localmente, asegúrate de cumplir con los siguientes r
     npm run start:dev
     ```
 
+8. **Correr tests (opcional):**
+    ```sh
+    npm run test
+    ```
+
 ---
 
 ## Comandos útiles para migraciones
